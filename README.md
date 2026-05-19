@@ -8,7 +8,7 @@
 
 ```toml
 [dependencies]
-primp = "1.2.3"
+primp = "1"
 ```
 
 ```rust

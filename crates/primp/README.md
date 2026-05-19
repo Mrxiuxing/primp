@@ -8,7 +8,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-primp = "1.2.3"
+primp = "1"
 ```
 
 ## Quick Start
